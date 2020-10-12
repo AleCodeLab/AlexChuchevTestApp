@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlexChuchev</string>
+    <string name="addEntry">Добавить запись</string>
+    <string name="getEntry">Вывести записи</string>
+    <string name="btnSave">Сохранить запись</string>
+    <string name="btnCancel">Отменить</string>
+    <string name="hint">Введите текст ..</string>
+</resources>
